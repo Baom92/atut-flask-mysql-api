@@ -1,0 +1,4 @@
+pymysql
+Flask_SQLAlchemy==3.0.3
+Flask==2.2.3
+PyYAML
